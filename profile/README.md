@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://ultralytics.com/">
+  <a href="url">
   <img width="900" src="https://github.com/Znoesis-Labs/.github/blob/main/profile/img/banner.png"></a>
 </p>
 
